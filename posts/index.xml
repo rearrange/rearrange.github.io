@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on DevBlog - Sallehin Sallehuddin</title>
-        <link>/posts/</link>
+        <link>https://rearrange.github.io/posts/</link>
         <description>Recent content in Posts on DevBlog - Sallehin Sallehuddin</description>
         <generator>Hugo -- gohugo.io</generator>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Mon, 29 Apr 2019 13:53:21 +0800</lastBuildDate>
-        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rearrange.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>My First Post</title>
-            <link>/posts/2019/04/my-first-post/</link>
+            <link>https://rearrange.github.io/posts/2019/04/my-first-post/</link>
             <pubDate>Mon, 29 Apr 2019 13:53:21 +0800</pubDate>
             
-            <guid>/posts/2019/04/my-first-post/</guid>
+            <guid>https://rearrange.github.io/posts/2019/04/my-first-post/</guid>
             <description>Testing a new post</description>
             <content type="html"><![CDATA[<p>Testing a new post</p>
 ]]></content>
